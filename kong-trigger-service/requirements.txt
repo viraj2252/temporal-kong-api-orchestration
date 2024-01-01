@@ -1,0 +1,4 @@
+# Python dependencies for the Flask application that triggers workflows
+Flask>=2.0.0
+temporalio>=1.0.0
+requests==2.31.0
